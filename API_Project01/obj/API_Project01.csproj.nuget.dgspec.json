@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pitagon\\Project1_4-26_01\\API_Project01\\API_Project01\\API_Project01.csproj": {}
+    "C:\\Users\\PC\\Desktop\\Test_CloneFileGitHub\\Pitagon_Project_01_BE\\API_Project01\\API_Project01.csproj": {}
   },
   "projects": {
-    "D:\\Pitagon\\Project1_4-26_01\\API_Project01\\API_Project01\\API_Project01.csproj": {
+    "C:\\Users\\PC\\Desktop\\Test_CloneFileGitHub\\Pitagon_Project_01_BE\\API_Project01\\API_Project01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pitagon\\Project1_4-26_01\\API_Project01\\API_Project01\\API_Project01.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Test_CloneFileGitHub\\Pitagon_Project_01_BE\\API_Project01\\API_Project01.csproj",
         "projectName": "API_Project01",
-        "projectPath": "D:\\Pitagon\\Project1_4-26_01\\API_Project01\\API_Project01\\API_Project01.csproj",
-        "packagesPath": "C:\\Users\\diebo\\.nuget\\packages\\",
-        "outputPath": "D:\\Pitagon\\Project1_4-26_01\\API_Project01\\API_Project01\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Desktop\\Test_CloneFileGitHub\\Pitagon_Project_01_BE\\API_Project01\\API_Project01.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\Test_CloneFileGitHub\\Pitagon_Project_01_BE\\API_Project01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\diebo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

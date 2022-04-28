@@ -184,3 +184,13 @@ D:\Pitagon\Project1_4-26_01\API_Project01\API_Project01\obj\Debug\net6.0\refint\
 D:\Pitagon\Project1_4-26_01\API_Project01\API_Project01\obj\Debug\net6.0\API_Project01.pdb
 D:\Pitagon\Project1_4-26_01\API_Project01\API_Project01\obj\Debug\net6.0\API_Project01.genruntimeconfig.cache
 D:\Pitagon\Project1_4-26_01\API_Project01\API_Project01\obj\Debug\net6.0\ref\API_Project01.dll
+C:\Users\PC\Desktop\Test_CloneFileGitHub\Pitagon_Project_01_BE\API_Project01\obj\Debug\net6.0\API_Project01.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Test_CloneFileGitHub\Pitagon_Project_01_BE\API_Project01\obj\Debug\net6.0\API_Project01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Test_CloneFileGitHub\Pitagon_Project_01_BE\API_Project01\obj\Debug\net6.0\API_Project01.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Test_CloneFileGitHub\Pitagon_Project_01_BE\API_Project01\obj\Debug\net6.0\API_Project01.AssemblyInfo.cs
+C:\Users\PC\Desktop\Test_CloneFileGitHub\Pitagon_Project_01_BE\API_Project01\obj\Debug\net6.0\API_Project01.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Test_CloneFileGitHub\Pitagon_Project_01_BE\API_Project01\obj\Debug\net6.0\API_Project01.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\Test_CloneFileGitHub\Pitagon_Project_01_BE\API_Project01\obj\Debug\net6.0\API_Project01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\Test_CloneFileGitHub\Pitagon_Project_01_BE\API_Project01\obj\Debug\net6.0\API_Project01.dll
+C:\Users\PC\Desktop\Test_CloneFileGitHub\Pitagon_Project_01_BE\API_Project01\obj\Debug\net6.0\ref\API_Project01.dll
+C:\Users\PC\Desktop\Test_CloneFileGitHub\Pitagon_Project_01_BE\API_Project01\obj\Debug\net6.0\API_Project01.pdb
