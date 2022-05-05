@@ -13,23 +13,21 @@ namespace API_Project01.AdapterConver
         public void ConvertEncode(InputData inputData)
         {
             
-            //
             //EnCode
             if (inputData.typeInputData == "TypeBase64")
             {
                 converter = new TypeBase64();
-                inputData.valueInputData = converter.EnCode(inputData.valueInputData);
+                
             }
             else if (inputData.typeInputData == "TypeHex")
             {
                 converter = new TypeHex();
-                inputData.valueInputData = converter.EnCode(inputData.valueInputData);
             }
             else
             {
                 converter = new TypeString();
-                inputData.valueInputData = converter.EnCode(inputData.valueInputData);
             }
+            inputData.valueInputData = converter.EnCode(inputData.valueInputData);
         }
         public void ConvertDecode(InputData inputData)
         {
@@ -37,18 +35,16 @@ namespace API_Project01.AdapterConver
             if (inputData.typeOutputData == "TypeBase64")
             {
                 converter = new TypeBase64();
-                inputData.valueInputData = converter.DeCode(inputData.valueInputData);
             }
             else if (inputData.typeOutputData == "TypeHex")
             {
                 converter = new TypeHex();
-                inputData.valueInputData = converter.DeCode(inputData.valueInputData);
             }
             else
             {
                 converter = new TypeString();
-                inputData.valueInputData = converter.DeCode(inputData.valueInputData);
             }
+            inputData.valueInputData = converter.DeCode(inputData.valueInputData);
         }
 
     }
